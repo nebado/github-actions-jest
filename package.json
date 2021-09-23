@@ -1,0 +1,22 @@
+{
+  "name": "github-actions-jest",
+  "version": "1.0.0",
+  "description": "Testing github actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nebado/github-actions-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nebado/github-actions-jest/issues"
+  },
+  "homepage": "https://github.com/Nebado/github-actions-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
